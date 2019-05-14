@@ -11,6 +11,7 @@ public class Hungry {
 	if(sc.nextLine().equalsIgnoreCase("yes")) {
 		System.out.println("Im hungry");
 		System.out.println("I ate pizza");
+		System.out.println("we ate fried");
 	}
 	else {
 		System.out.println("Do your homework");
