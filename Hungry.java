@@ -15,6 +15,7 @@ public class Hungry {
 	}
 	else {
 		System.out.println("Do your homework");
+		System.out.println("we are in banch thirsty write now");
 	}
 	}
 }
