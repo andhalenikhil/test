@@ -10,10 +10,10 @@ public class Hungry {
 	System.out.println("are you hungry yes/no");
 	if(sc.nextLine().equalsIgnoreCase("yes")) {
 		System.out.println("Im hungry");
-		System.out.println("I ate pizza");
 	}
 	else {
 		System.out.println("Do your homework");
+		System.out.println("we are in banch thirsty write now");
 	}
 	}
 }
